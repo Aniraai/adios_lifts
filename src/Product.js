@@ -43,15 +43,15 @@ function CoachingPackage() {
 
         <div className="contact-section">
           <p><strong>Contact Us:</strong></p>
-          <p>📧 saketgokhale00@gmail.com</p>
-          <p>📞 9373686933</p>
+          <p>📧 adioslifts@gmail.com</p>
+          <p>📞72229 69398</p>
         </div>
 
         <div className="terms">
           <p><strong>Terms & Conditions:</strong></p>
           <p>
             You agree to share information entered on this page with
-            Saket Gokhale (owner of this page) and Razorpay,
+            Aditya Kumar (owner of this page) and Razorpay,
             adhering to applicable laws.
           </p>
         </div>
@@ -87,10 +87,6 @@ function CoachingPackage() {
           </div>
           <button type="submit" className="pay-btn">Pay Now</button>
         </form>
-
-        <div className="payment-icons">
-          <p>UPI | VISA | RuPay | Netbanking</p>
-        </div>
       </div>
     </div>
   );
